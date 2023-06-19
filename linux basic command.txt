@@ -1,0 +1,17 @@
+Linux Basics
+echo $shell - tells which type of shell
+echo hi- prints hi
+ls-lists all the  files and folders
+cd- change directory
+pwd - print the directory
+mkdir - to make new directory
+-p  -to make multiple directory in one go
+rm -r  -to remove the directory
+cp -r -to copy the directory
+Command Files
+touch - to make new file
+cat >  -add contents to file
+cat file name  -to view cintents of file
+cp file name copy file name -to copy file
+mv file name path file -to cut file/rename
+rm file name -to remove/delete file
